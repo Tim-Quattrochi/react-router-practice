@@ -1,5 +1,5 @@
-# Kenzie Academy JavaScript Assignment
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Complete your work inside of `code.js`
+Run npm start to launch the server.
 
-Follow the instructions provided on my.kenzie.academy for this assignment.
+Edit src/App.js to complete the assignment.
