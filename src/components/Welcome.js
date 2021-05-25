@@ -8,4 +8,4 @@ function Welcome(props) {
   );
 }
 
-export default Product;
+export default Welcome;
