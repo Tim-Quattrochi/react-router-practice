@@ -1,6 +1,4 @@
-import React from "react";
-
-function Welcome(props) {
+const Welcome = (props) => {
   return (
     <span>
       Hello _name_!

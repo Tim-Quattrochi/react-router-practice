@@ -1,14 +1,14 @@
-import React, { useState } from "react";
-import { Route, Switch } from "react-router-dom";
+import { useState } from "react";
+import { Route, Routes } from "react-router-dom";
 import Welcome from './components/Welcome'
 
 import "./App.css";
 
-function App() {
+const App = () => {
   return (
-    <Switch>
+    <Routes>
       <Route path="/" component={Welcome}/>
-    </Switch>
+    </Routes>
   )
 }
 
