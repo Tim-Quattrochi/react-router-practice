@@ -1,8 +1,8 @@
-const Welcome = (props) => {
+const Welcome = () => {
   return (
-    <span>
-      Hello _name_!
-    </span>
+    <div>
+      <p>Welcome to this little site!</p>
+    </div>
   );
 }
 

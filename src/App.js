@@ -7,7 +7,7 @@ import "./App.css";
 const App = () => {
   return (
     <Routes>
-      <Route path="/" element={<Welcome />}/>
+      {/* Your Route components will go here */}
     </Routes>
   )
 }
